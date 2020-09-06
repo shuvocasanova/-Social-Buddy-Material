@@ -1,0 +1,15 @@
+.post-box {
+    background-color: #efe;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0px;
+    height: 20vh ;
+    padding: 5% ;
+    
+    flex: '1'
+}
+
+.post-box img{
+    border-radius: 50%;
+    width: 100px;
+}
